@@ -20,7 +20,7 @@ $ make flash monitor
 
 **USE**
 
-See DHT_main.c
+See main.cpp
 
 ```C
 	void DHT_task(void *pvParameter)
